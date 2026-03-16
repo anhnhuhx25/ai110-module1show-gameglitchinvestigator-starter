@@ -25,13 +25,20 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [] Describe the game's purpose.
+Game's purpose to for users to guess a number between a given range of different levels, and return scores to the users based on their attemps.
+- [X] Detail which bugs you found.
++ The higher/lower hints were wrong
++ New game button doesn't start a new game
++ Difficulties and attemps weren't adjusted
++ Number of attemps didn't decrease for the first guess
+- [X] Explain what fixes you applied.
++ I fixed all the bugs mentioned above
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [X] [Insert a screenshot of your fixed, winning game here]
+Please check demo.jpg
 
 ## 🚀 Stretch Features
 
